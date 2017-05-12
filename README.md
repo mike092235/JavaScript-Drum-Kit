@@ -1,2 +1,2 @@
-# JavaScript-NPC-Pad
-A virtual contruction of the physical NPC Pad, traditionally known as a Music Production Controller used by music producers, djs and beat makers. The following project is coded in pure vanilla JavaScript.
+# JavaScript-MPC-Pad
+A virtual contruction of the physical MPC Pad. Music Production Controllers are used by music producers, DJs, beat makers and music enthusiasts. The following project is coded in pure vanilla JavaScript.
