@@ -10,9 +10,11 @@ body,html {
 }
 
 h1 {
-  color: white;
+  position: relative;
+  color: #ffc600;
   font-size: 4rem;
   text-align: center;
+  margin-bottom: -70px;
 }
 
 .keys {
